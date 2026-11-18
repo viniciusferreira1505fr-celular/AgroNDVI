@@ -1,0 +1,16 @@
+streamlit
+numpy
+pandas
+rasterio
+matplotlib
+folium
+streamlit-folium
+streamlit-geolocation
+geopandas
+shapely
+pyproj
+pystac-client
+planetary-computer
+Pillow
+scipy
+statsmodels
